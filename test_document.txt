@@ -1,4 +1,5 @@
 first commit
 third commit
 commit style
-committing without staging
+amending commits
+
