@@ -1,1 +1,1 @@
-this text will appear in branch_2 only
+this text will appear in main branch only
