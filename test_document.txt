@@ -8,6 +8,7 @@ amending commits
 
 
 hi
+another change done from local
 
 
 change done in github
